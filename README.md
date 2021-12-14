@@ -74,7 +74,7 @@ This section explains the decisions made behind the design. The design can be se
 
 <dl>
 <dd>
-There will be different versions using different CAD softwares in different repo branches. Freecad & Openscad will primarily be maintained as they are free open-source software that anyone in the community has access to.
+There will be many versions of the design using different CAD softwares in separate repository branches. Feel free to contribute to a different branch of this repository maintaining a CAD software of your choice. I personally chose Openscad because it had a relatively low learning curve for programmers, and because it's free and open-source. 
 </dd>
 </dl>
 
